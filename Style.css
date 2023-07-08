@@ -1,0 +1,231 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    background: rgb(255, 255, 255);
+    
+    
+    
+}
+.mark{
+  padding: 9px;
+  width: 150px;
+  height: 25px;
+  border-radius: 10px 10px 10px 10px;
+  margin: 5px;
+  float: left;
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-decoration: none;
+  text-align: center;
+}
+.DIZ{
+  width: 85px;
+  height: 33px;
+  margin: 1px;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  background-color: rgb(255, 0, 0);
+}
+.serach{
+  margin: 10px;
+  padding-left: 15px;
+  height: 40px;
+  width: 550px;
+  border-radius: 15px 15px 15px 15px;
+  background-color: white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border:solid rgb(124, 124, 124);
+  border-width: 1px;
+
+}
+.upload{
+  float: right;
+  margin: 5px;
+  cursor: pointer;
+  height: 45px;
+  border-radius: 10px 10px 10px 10px;
+  padding: 5px;
+  border: none;
+}
+
+.User{
+    float: right;
+    margin: 5px;
+    height: 45px;
+    padding-right: 10px;
+    cursor: pointer;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border: solid;
+    width: 50px;
+    height: 45px;
+    border-radius: 15px;
+    padding-left: 10px;
+    border: none;
+   
+}
+.User-profile{
+  width: 40px;
+  height: 40px;
+  border-radius: 30px;
+  margin: 10px;
+  float: right;
+}
+.Tags{
+    width: 65px;
+    height: 35px;
+    background: rgb(0, 0, 0);
+    border-radius: 10px 10px 10px 10px;
+    color: rgb(255, 255, 255);
+    padding-left: 2px;
+    cursor: pointer;
+    border-color: rgb(196, 196, 196);
+}
+.video-size{
+  width: 260px;
+  height: 160px;
+  border-radius: 15px 15px 15px 15px;
+  cursor: pointer;
+  border: solid;
+}
+.list-style{
+  text-align: center;
+  font-size: 25px;
+  border-radius: 40px 40px 40px 40px;
+  color: black;
+  height: 40px;
+  cursor: pointer;
+}
+.cutstome-1{
+  float: left;
+  width: 98%;
+  height: 40px;
+}
+
+
+
+
+.Logo-customize-1{
+    width: 45px;
+    height: 45px;
+    border-radius: 30px;
+    margin-left: 9%;
+    margin-top: 5px;
+}
+.Logo-customize-2{
+  width: 45px;
+  height: 45px;
+  border-radius: 30px;
+  margin-left: 10%;
+  margin-top: 5px;
+}
+.Logo-customize-3{
+  width: 45px;
+  height: 45px;
+  border-radius: 30px;
+  margin-left: 9%;
+  margin-top: 5px;
+}
+.Logo-customize-4{
+  width: 45px;
+  height: 45px;
+  border-radius: 30px;
+  margin-left: 14%;
+  margin-top: 5px;
+}
+
+
+
+
+.title-custome{
+  float: right;
+  width: 210px;
+  height: 97px;
+  text-align: left;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-left: 1px; 
+}
+
+
+
+
+.Ch-1{
+  float: left;
+  width: 24%;
+  height: 40px;
+}
+
+.Ch-2{
+  float: left;
+  width: 24%;
+  height: 40px;
+}
+.Ch-3{
+  float: right;
+  width: 24%;
+  height: 40px;
+}
+.Ch-4{
+  float: right;
+  width: 26.6%;
+  height: 40px;
+}
+
+
+
+.links{
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+
+
+
+.Chnnal-name-1{
+  float: left;
+  width: 210px;
+  height: 30px;
+  margin-block-start: 40px;
+
+}
+.Chnnal-name-2{
+  float: left;
+  width: 210px;
+  height: 30px;
+  margin-block-start: 20px;
+}
+.Chnnal-name-3{
+  float: left;
+  width: 210px;
+  height: 30px;
+  margin-block-start: 20px;
+
+}
+.Chnnal-name-4{
+  float: left;
+  width: 210px;
+  height: 30px;
+  margin-block-start: 20px;
+
+}
+
+
+.custome-name-4{
+  font-size: 15px;
+  margin-top: 10px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin-left: 15px;
+}
+
+
+
+
+.name-links{
+  text-decoration: none;
+  color: red;
+}
+
